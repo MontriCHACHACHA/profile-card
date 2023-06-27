@@ -18,7 +18,7 @@ function App() {
 }
 
 function Avatar() {
-  return <img className='avatar' src='small.jpg' alt='My Avatar'/>;
+  return <img className='avatar' src='01.JPG' alt='My Avatar'/>;
 }
 
 function Skilllist(){
